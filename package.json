@@ -1,0 +1,23 @@
+{
+  "name": "instagram-sdk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "A simple SDK for interacting with the Instagram Graph API.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/groq": "^0.1.3",
+    "axios": "^1.7.9",
+    "chalk": "^5.4.1",
+    "dotenv": "^16.4.7",
+    "fs": "^0.0.1-security",
+    "langchain": "^0.3.15",
+    "mongoose": "^8.10.0",
+    "openai": "^4.83.0",
+    "readline": "^1.3.0"
+  }
+}
